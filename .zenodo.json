@@ -1,0 +1,12 @@
+{
+    "description": "Test repo description", 
+    "license": "GPL-3.0-only", 
+    "title": "Test repo title", 
+    "creators": [
+        {
+            "affiliation": "NIOZ Royal Netherlands Institute for Sea Research, Texel, the Netherlands", 
+            "name": "Humphreys, Matthew P.",
+            "orcid": "0000-0002-9371-7128"
+        }
+    ]
+}
